@@ -1,0 +1,12 @@
+.tasks tr {
+  height: 30px;
+}
+td.solved, td.unsolved {
+  min-width: 70px;
+}
+td.solved {
+  background-color: rgb(0,200,0);
+}
+td.unsolved {
+  background-color: white;
+}
